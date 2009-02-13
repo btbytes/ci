@@ -843,7 +843,7 @@ static void g1_min (void)
 
     if ((psos[0].dimension != 13) || (psos[1].dimension != 9))
     {
-        printf("G1 wrong function dimention\n");
+        printf("G1 wrong function dimension\n");
 		  exit(1);
     }
 
@@ -961,7 +961,7 @@ static void g1_max (void)
 
     if ((psos[0].dimension != 13) || (psos[1].dimension != 9))
     {
-        printf("G1 wrong function dimention\n");
+        printf("G1 wrong function dimension\n");
 		  exit(1);
     }
 
@@ -1079,7 +1079,7 @@ static void g7_min (void)
 
     if ((psos[0].dimension != 10) || (psos[1].dimension != 8))
     {
-        printf("G7 wrong function dimention\n");
+        printf("G7 wrong function dimension\n");
 		  exit(1);
     }
 
@@ -1266,7 +1266,7 @@ static void g7_max (void)
 
     if ((psos[0].dimension != 10) || (psos[1].dimension != 8))
     {
-        printf("G7 wrong function dimention\n");
+        printf("G7 wrong function dimension\n");
 		  exit(1);
     }
 
@@ -1452,7 +1452,7 @@ static void g9_min (void)
 
     if ((psos[0].dimension != 7) || (psos[1].dimension != 4))
     {
-        printf("G9 wrong function dimention\n");
+        printf("G9 wrong function dimension\n");
 		  exit(1);
     }
 
@@ -1549,7 +1549,7 @@ static void g9_max (void)
 
     if ((psos[0].dimension != 7) || (psos[1].dimension != 4))
     {
-        printf("G9 wrong function dimention\n");
+        printf("G9 wrong function dimension\n");
 		  exit(1);
     }
 
@@ -1646,7 +1646,7 @@ static void f6 (void)
 
     if (psos[0].dimension != 2)
     {
-        printf("f6 wrong function dimention\n");
+        printf("f6 wrong function dimension\n");
 		  exit(1);
     }
 
