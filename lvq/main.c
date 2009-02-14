@@ -15,7 +15,7 @@ void main (int argc, char *argv[])
     // check command line
     if (argc != 2)
 	  {
-		  printf("Usage: exe_file run_file");
+		  printf("Usage: exe_file run_file\n");
 		  exit(1);
 	  }
 

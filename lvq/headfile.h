@@ -5,7 +5,6 @@
 #include <stdlib.h>
 #include <math.h>
 #include <string.h>            	
-#include <conio.h>              	
 #include <time.h>						//YS 01/16/98
                                               
 #endif
